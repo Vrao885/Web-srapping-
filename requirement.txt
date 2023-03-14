@@ -1,0 +1,7 @@
+Create a script to scrape the data from youtube 
+
+1. Search for particular keywords
+2. Get some of the youtube channels
+3. Channel Desription
+4. Channel Links,and other social media links
+5. Total Views,...etc
